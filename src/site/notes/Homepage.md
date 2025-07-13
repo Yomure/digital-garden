@@ -6,7 +6,7 @@
 ![countryside.jpg](/img/user/img/countryside.jpg)
 
 <div style="text-align: justify;">
-  <img src="/img/user/img/photo.jpg" alt="Avatar of Zhou You"
+  <img src="img/user/img/photo.jpg" alt="Avatar of Zhou You"
 	   style="float: left; margin: 0 1.5rem 1rem 0; width: 120px; border-radius: 50%; box-shadow: var(--shadow-s);">
   <h1 class="cm-header-1" style="font-size: 2rem; margin-top: 0;">Welcome</h1>
   <p>This is the homepage of <strong>Zhou You</strong>. I'm planning to collect interesting ideas, notes, and resources here.

@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":["gardenEntry"],"dg-home":true,"dg-publish":true,"date created":"星期五, 七月 11日 2025, 5:16:19 下午","date modified":"星期一, 七月 14日 2025, 12:54:20 凌晨","dg-pinned":true,"cssclasses":["markdown-preview-view"],"permalink":"/homepage/","pinned":true,"dgPassFrontmatter":true}
+{"aliases":[],"tags":["gardenEntry"],"dg-home":true,"dg-publish":true,"date created":"星期五, 七月 11日 2025, 5:16:19 下午","date modified":"星期一, 七月 14日 2025, 12:59:50 凌晨","dg-pinned":true,"cssclasses":["markdown-preview-view"],"permalink":"/homepage/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -11,7 +11,7 @@
   <h1 class="cm-header-1" style="font-size: 2rem; margin-top: 0;">Welcome</h1>
   <p>This is the homepage of <strong>Zhou You</strong>. I'm planning to collect interesting ideas, notes, and resources here.
 	<em>The page is still under construction — feel free to enjoy the chaos.</em></p>
-  <p>I received my undergraduate degree in Electronic Information Engineering from Southwest Jiaotong University and am currently pursuing a master's degree at the School of Information Science and Engineering, Fudan University.
+  <p>I received my undergraduate degree in Electronic Information Engineering from Southwest Jiaotong University and am currently received my master's degree at the School of Information Science and Engineering, Fudan University.
 	My research interests lie in quantum information and quantum computation. During my master’s studies, I have mainly focused on quantum circuit optimization and quantum system certification,
 	while also exploring quantum metrology and machine learning.</p>
   <p>I'm planning to pursue a Ph.D. in the coming years. <em>What’s next?</em> Continuous-variable photonics, quantum simulation, or quantum error correction?

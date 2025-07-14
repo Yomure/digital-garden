@@ -1,9 +1,9 @@
 ---
-{"aliases":[],"tags":["gardenEntry"],"dg-home":true,"dg-publish":true,"dg-pinned":true,"date created":"星期五, 七月 11日 2025, 5:16:19 下午","date modified":"星期一, 七月 14日 2025, 2:05:22 凌晨","permalink":"/homepage/","pinned":true,"dgPassFrontmatter":true}
+{"aliases":[],"type":"guide","tags":["guide","homepage","introduction","gardenEntry"],"dg-home":true,"dg-publish":true,"dg-pinned":true,"date created":"星期五, 七月 11日 2025, 5:16:19 下午","date modified":"星期一, 七月 14日 2025, 2:17:06 下午","permalink":"/homepage/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
-![countryside.jpg](/img/user/img/countryside.jpg)
+![countryside.jpg|2000](/img/user/img/countryside.jpg)
 
 <div style="text-align: justify;">
   <img src="/img/user/img/photo.jpg" alt="Avatar of Zhou You"
@@ -23,4 +23,6 @@
 
 # Special Event
 
-<p><span>共创建 15 篇笔记、0 个标签</span></p>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Date</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span>Event</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>[Oct. 2021]</span></td><td><span><a class="original-internal-link" data-href="Timelines/2021-10-01-paper-submitted.md" href="Timelines/2021-10-01-paper-submitted.md" target="_blank" rel="noopener nofollow" style="display: none;">提交论文</a><a class="internal-link mathLink-internal-link" data-href="Timelines/2021-10-01-paper-submitted.md" href="Timelines/2021-10-01-paper-submitted.md" target="_blank" rel="noopener nofollow">提交论文</a></span></td></tr><tr><td><span>[Jun. 2022]</span></td><td><span><a class="original-internal-link" data-href="Timelines/2022-06-15-first-teaching.md" href="Timelines/2022-06-15-first-teaching.md" target="_blank" rel="noopener nofollow" style="display: none;">担任研究生教学助理</a><a class="internal-link mathLink-internal-link" data-href="Timelines/2022-06-15-first-teaching.md" href="Timelines/2022-06-15-first-teaching.md" target="_blank" rel="noopener nofollow">担任研究生教学助理</a></span></td></tr></tbody></table></div>
+
+<p><span>共创建 17 篇笔记、7 个标签</span></p>

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"type":"guide","tags":["guide","homepage","introduction","gardenEntry"],"dg-home":true,"dg-publish":true,"dg-pinned":true,"dg-show-tag":false,"date created":"星期五, 七月 11日 2025, 5:16:19 下午","date modified":"星期一, 七月 14日 2025, 2:17:06 下午","permalink":"/homepage/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"2"}
+{"aliases":null,"type":"guide","tags":["guide","homepage","introduction","gardenEntry"],"dg-home":true,"dg-publish":true,"dg-pinned":true,"dg-show-tags":false,"date created":"星期五, 七月 11日 2025, 5:16:19 下午","date modified":"星期一, 七月 14日 2025, 2:17:06 下午","permalink":"/homepage/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 
